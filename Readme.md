@@ -30,16 +30,22 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
 ## GitHub Stats
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=light&hide_border=true" width="410" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=light&hide_border=true" width="320" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=light&hide_border=true" width="410" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=light&hide_border=true" width="320" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="80" height="80" alt="Hacktoberfest Badge"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Contribution Activity -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=light&hide_border=true" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=light&hide_border=true" width="320" />
-</div>
 
 ## Contribution Activity
 
