@@ -44,8 +44,6 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srushti-Thombre&theme=default" alt="Contribution Graph"/>
       </td>
-      <td></td>
-      <td></td>
       <td align="center" valign="middle">
         <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="80" height="80" alt="Hacktoberfest Badge"/><br/>
         <span style="font-size:14px; font-weight:bold;">Hacktober 2025 Super Contributor</span>
