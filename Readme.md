@@ -41,14 +41,14 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
 <div align="center">
   <table>
     <tr>
-      <td width="180" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srushti-Thombre&theme=default" alt="Contribution Graph" width="120"/>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srushti-Thombre&theme=default" alt="Contribution Graph"/>
       </td>
-      <td width="180"></td>
-      <td width="180"></td>
-      <td width="180" align="center" valign="middle">
-        <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="80" height="80" alt="Hacktoberfest Badge"/>
-        <div style="font-size:14px; font-weight:bold; margin-top:6px;">Hacktober 2025 Super Contributor</div>
+      <td></td>
+      <td></td>
+      <td align="center" valign="middle">
+        <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="80" height="80" alt="Hacktoberfest Badge"/><br/>
+        <span style="font-size:14px; font-weight:bold;">Hacktober 2025 Super Contributor</span>
       </td>
     </tr>
   </table>
