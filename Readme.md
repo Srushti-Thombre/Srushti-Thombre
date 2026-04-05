@@ -36,18 +36,16 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
 
 <!-- Contribution Activity -->
 
-## GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=light&hide_border=true" width="410" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=light&hide_border=true" width="320" />
 </div>
 
-<!-- Hacktoberfest Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=flat&logo=hackthebox&logoColor=white"/>
-</p>
-
 ## Contribution Activity
 
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Srushti-Thombre&theme=default)
+
+<!-- Hacktoberfest Badge -->
+<p align="center">
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp"/>
+</p>
