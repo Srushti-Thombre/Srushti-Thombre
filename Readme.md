@@ -30,8 +30,8 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=light&hide_border=true" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=light&hide_border=true" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="410" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=transparent&hide_border=true" width="320" alt="Top Languages" />
 </div>
 
 <!-- Contribution Activity -->
