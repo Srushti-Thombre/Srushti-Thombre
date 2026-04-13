@@ -33,18 +33,18 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
 
 ### Srushti-Thombre
 
-<!-- Stats Overview Card (similar to the top section) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" />
+<!-- Main Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" width="420" />
 
 <!-- Top Languages by Repo (Donut) -->
 
 **Top Languages by Repo**  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=donut&theme=default&hide_border=true&hide_title=true" alt="Top Languages by Repo" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=donut&theme=default&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5" alt="Top Languages by Repo" width="420" />
 
 <!-- Top Languages by Commit (Donut) -->
 
 **Top Languages by Commit**  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=donut&theme=default&hide_border=true&hide_title=true&langs_count=8" alt="Top Languages by Commit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=donut&theme=default&hide_border=true&hide_title=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages by Commit" width="420" />
 
 </div>
 
