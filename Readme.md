@@ -27,11 +27,54 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
 
 <!-- GitHub Stats (Dynamic) -->
 
-## GitHub Stats
+## Profile Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="410" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=transparent&hide_border=true" width="320" alt="Top Languages" />
+
+<table>
+  <tr>
+    <td colspan="2" align="center" style="color:#ff69b4; font-size:20px; font-weight:bold; border-radius:10px; padding:12px 0; background:#1a1625;">
+      Srushti-Thombre
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="color:#fff; padding:8px 0; background:#1a1625;">
+      <img src="https://img.shields.io/badge/Contributions-121-blueviolet?style=flat-square&logo=github"/>
+      <img src="https://img.shields.io/badge/Public%20Repos-19-blue?style=flat-square&logo=github"/>
+      <img src="https://img.shields.io/badge/Joined-2023-9cf?style=flat-square&logo=github"/>
+      <img src="https://img.shields.io/badge/Email-srushtiprajakt.t@gmail.com-yellow?style=flat-square&logo=gmail"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px; background:#232135;">
+      <b>Top Languages by Repo</b><br/>
+      <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript"/>
+      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
+      <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5"/>
+      <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"/>
+    </td>
+    <td align="center" style="padding:10px; background:#232135;">
+      <b>Top Languages by Commit</b><br/>
+      <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript"/>
+      <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript"/>
+      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
+      <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5"/>
+      <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding:10px; background:#232135;">
+      <b>Stats</b><br/>
+      <img src="https://img.shields.io/badge/Total%20Stars-2-yellow?style=flat-square&logo=github"/>
+      <img src="https://img.shields.io/badge/2026%20Commits-26-blue?style=flat-square&logo=github"/>
+      <img src="https://img.shields.io/badge/Total%20PRs-33-green?style=flat-square&logo=github"/>
+      <img src="https://img.shields.io/badge/Total%20Issues-0-lightgrey?style=flat-square&logo=github"/>
+      <img src="https://img.shields.io/badge/Contributed%20to-44-blueviolet?style=flat-square&logo=github"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <!-- Contribution Activity -->
