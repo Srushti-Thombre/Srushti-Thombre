@@ -1,6 +1,6 @@
 <!-- Header / Greeting -->
 <h1 align="center">Hello, I'm Srushti 👋</h1>
-<p align="center">Engineering Student | Aspiring Full-stack Developer</p>
+<p align="center">Engineering Student</p>
 
 <!-- About Me -->
 
