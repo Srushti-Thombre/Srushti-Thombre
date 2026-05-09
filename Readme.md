@@ -33,13 +33,13 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=default&hide_border=true&hide_title=true&cache_seconds=21600" alt="GitHub Stats" width="300" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=donut&theme=default&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5" alt="Top Languages by Repo" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=donut&theme=default&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&cache_seconds=21600" alt="Top Languages by Repo" width="300" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=donut&theme=default&hide_border=true&hide_title=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages by Commit" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=donut&theme=default&hide_border=true&hide_title=true&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=21600" alt="Top Languages by Commit" width="300" />
       </td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@ I'm a third-year IT student at Don Bosco Institute of Technology, exploring the 
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srushti-Thombre&theme=default" alt="Contribution Graph"/>
+        <img src="https://streak-stats.demolab.com/?user=Srushti-Thombre&theme=default&hide_border=true&cache_seconds=21600" alt="Contribution Graph"/>
       </td>
       <td align="center" valign="middle">
         <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="80" height="80" alt="Hacktoberfest Badge"/><br/>
