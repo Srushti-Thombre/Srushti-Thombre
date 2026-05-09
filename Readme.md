@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
+<hr/>
  
 ### What I'm working with
  
@@ -46,7 +46,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
  
----
+<hr/>
  
 ### A few things I've built
  
@@ -56,7 +56,7 @@
 | 📄 **[EduExtract](https://github.com/Srushti-Thombre/EduExtract)** | Upload a PDF, get study questions back — Flask + NLP |
 | 🎮 **[VirtueVille](https://github.com/Srushti-Thombre/VirtueVille)** | A 2D browser game where your choices change the story |
  
----
+<hr/>
  
 ### Stats & activity
  
@@ -65,16 +65,16 @@
     <tr>
       <td align="center" valign="top">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=default&hide_border=true&hide_title=true&cache_seconds=21600"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srushti-Thombre&theme=default"
           alt="GitHub Stats"
-          width="360"
+          width="320"
         />
       </td>
       <td align="center" valign="top">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=default&hide_border=true&hide_title=true&cache_seconds=21600"
-          alt="Top Languages"
-          width="360"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srushti-Thombre&theme=default"
+          alt="Top Languages (by repo)"
+          width="320"
         />
       </td>
     </tr>
@@ -83,15 +83,15 @@
         <img
           src="https://streak-stats.demolab.com/?user=Srushti-Thombre&theme=default&hide_border=true&cache_seconds=21600"
           alt="GitHub Streak"
-          width="740"
+          width="660"
         />
       </td>
     </tr>
   </table>
 </div>
----
+<hr/>
  
-### Recognition
+### Achievements
  
 <div align="center">
   <table>
@@ -105,12 +105,21 @@
       </td>
       <td align="left" valign="middle">
         <b>Hacktoberfest 2025 — Super Contributor</b> <i>(Level 5)</i><br/>
-        🏅 Top 40 / 400+ teams &nbsp;·&nbsp; HackVision 24-Hour Hackathon
+        Completed Hacktoberfest 2025 challenges
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="120">
+        🏅
+      </td>
+      <td align="left" valign="middle">
+        <b>HackVision 24-Hour Hackathon</b><br/>
+        Top 40 / 300+ teams
       </td>
     </tr>
   </table>
 </div>
----
+<hr/>
  
 <p align="center">
   <sub>always reading something · probably has a classical music playlist running right now</sub>
