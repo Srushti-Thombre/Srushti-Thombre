@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Srushti 👋</h1>
  
 <p align="center">
-  third-year IT student &nbsp;·&nbsp; Mumbai &nbsp;
+  Third-year IT student &nbsp;·&nbsp; Mumbai &nbsp;
 </p>
 <p align="center">
   I build things, break them, fix them, and occasionally ship them.<br/>
@@ -53,7 +53,7 @@
 | Project | What it does |
 |---|---|
 | 🗂️ **[Kanban Board](https://github.com/Srushti-Thombre/Kanban_Board)** | Full-stack task manager — React, Node.js, MySQL |
-| 📄 **[EduExtract](https://github.com/Srushti-Thombre/python_project_sem4)** | Upload a PDF, get study questions back — Flask + NLP |
+| 📄 **[EduExtract](https://github.com/Srushti-Thombre/EduExtract)** | Upload a PDF, get study questions back — Flask + NLP |
 | 🎮 **[VirtueVille](https://github.com/Srushti-Thombre/VirtueVille)** | A 2D browser game where your choices change the story |
  
 ---
@@ -61,23 +61,54 @@
 ### Stats & activity
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=default&hide_border=true&hide_title=true&cache_seconds=21600" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=default&hide_border=true&hide_title=true&cache_seconds=21600" height="150"/>
-<br/><br/>
- 
-<img src="https://streak-stats.demolab.com/?user=Srushti-Thombre&theme=default&hide_border=true&cache_seconds=21600" height="150"/>
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Srushti-Thombre&show_icons=true&theme=default&hide_border=true&hide_title=true&cache_seconds=21600"
+          alt="GitHub Stats"
+          width="360"
+        />
+      </td>
+      <td align="center" valign="top">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srushti-Thombre&layout=compact&theme=default&hide_border=true&hide_title=true&cache_seconds=21600"
+          alt="Top Languages"
+          width="360"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img
+          src="https://streak-stats.demolab.com/?user=Srushti-Thombre&theme=default&hide_border=true&cache_seconds=21600"
+          alt="GitHub Streak"
+          width="740"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 ---
  
 ### Recognition
  
 <div align="center">
-<img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="90" alt="Hacktoberfest 2025 Super Contributor Badge"/>
-**Hacktoberfest 2025 — Super Contributor** *(Level 5)*
- 
-🏅 Top 40 / 400+ teams &nbsp;·&nbsp; HackVision 24-Hour Hackathon
- 
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="120">
+        <img
+          src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp"
+          width="90"
+          alt="Hacktoberfest 2025 Super Contributor Badge"
+        />
+      </td>
+      <td align="left" valign="middle">
+        <b>Hacktoberfest 2025 — Super Contributor</b> <i>(Level 5)</i><br/>
+        🏅 Top 40 / 400+ teams &nbsp;·&nbsp; HackVision 24-Hour Hackathon
+      </td>
+    </tr>
+  </table>
 </div>
 ---
  
