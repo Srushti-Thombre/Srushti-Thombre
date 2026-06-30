@@ -54,7 +54,7 @@
 |---|---|
 | 🗂️ **[Kanban Board](https://github.com/Srushti-Thombre/Kanban_Board)** | Full-stack task manager — React, Node.js, MySQL |
 | 📄 **[EduExtract](https://github.com/Srushti-Thombre/EduExtract)** | Upload a PDF, get study questions back — Flask + NLP |
-| 🎮 **[VirtueVille](https://github.com/Srushti-Thombre/VirtueVille)** | A 2D browser game where your choices change the story |
+| 🎮 **[VirtueVille](https://virtueville.onrender.com)** | A 2D browser game where your choices change the story — [Live](https://virtueville.onrender.com) |
  
 <hr/>
  
@@ -110,11 +110,15 @@
     </tr>
     <tr>
       <td align="center" valign="middle" width="120">
-        🏅
+        <img
+          src="images/gssoc-badge-rising_star.png"
+          width="90"
+          alt="GSSoC Rising Star Badge"
+        />
       </td>
       <td align="left" valign="middle">
-        <b>HackVision 24-Hour Hackathon</b><br/>
-        Top 40 / 300+ teams
+        <b>GSSOC 2026 - Active participant</b><br/>
+        Contributor in GirlScript Summer of Code
       </td>
     </tr>
   </table>
@@ -124,3 +128,5 @@
 <p align="center">
   <sub>always reading something · probably has a classical music playlist running right now</sub>
 </p>
+
+[def]: m
