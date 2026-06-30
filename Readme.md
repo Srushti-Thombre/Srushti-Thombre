@@ -117,7 +117,7 @@
         />
       </td>
       <td align="left" valign="middle">
-        <b>GSSOC 2026 - Active participant</b><br/>
+        <b>GSSOC 2026 - Active Participant</b><br/>
         Contributor in GirlScript Summer of Code
       </td>
     </tr>
